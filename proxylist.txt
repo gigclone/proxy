@@ -1,27 +1,26 @@
-62.72.46.14,8443,SG,CONTABO
-103.180.161.10,587,SG,HONG KONG Megalayer
-178.128.80.43,443,SG,DIGITALOCEAN
-167.71.194.185,8443,SG,DIGITALOCEAN
-91.192.81.154,2053,SG,MELBI
-15.235.162.49,443,SG,OVH
-51.79.254.182,443,SG,OVH
-51.79.158.126,443,SG,OVH SAS
-5.34.176.119,81,sg,Green Floid LLC
-119.81.201.154,9089,sg,Softlayer Technologies
-139.180.136.178,29661,sg,vultr holding
-45.76.183.217,49292,sg,vultar holding
-64.176.84.144,81,sg,vultar holding
-185.126.80.215,25565,sg,akile
-194.127.193.124,24467,sg,leasweb
-47.74.254.191,8900,SG,Alibaba
-194.127.193.240,50791,SG,Leaseweb Asia
-161.117.249.114,2025,SG,Alibaba Cloud
-43.156.16.213,31528,SG,Tencent cloud computing
-8.215.196.18,587,ID,Alibaba
-103.186.1.209,2053,ID,PT CLOUDHOST
-103.133.223.51,2096,ID,PT Cloud Teknologi Nusantara
-103.168.146.169,20132,ID,PT Herza Digital Indonesia
-43.133.145.156,53136,ID,Tencent cloud computing
+62.72.46.14,8443,🇸🇬,CONTABO
+103.180.161.10,587,🇸🇬,HONG KONG Megalayer
+178.128.80.43,443,🇸🇬,DIGITALOCEAN
+167.71.194.185,8443,🇸🇬,DIGITALOCEAN
+91.192.81.154,2053,🇸🇬,MELBI
+15.235.162.49,443,🇸🇬,OVH
+51.79.254.182,443,🇸🇬,OVH
+51.79.158.126,443,🇸🇬,OVH SAS
+5.34.176.119,81,🇸🇬,Green Floid LLC
+119.81.201.154,9089,🇸🇬,Softlayer Technologies
+139.180.136.178,29661,🇸🇬,vultr holding
+45.76.183.217,49292,🇸🇬,vultar holding
+64.176.84.144,81,🇸🇬,vultar holding
+185.126.80.215,25565,🇸🇬,akile
+194.127.193.124,24467,🇸🇬,leasweb
+47.74.254.191,8900,🇸🇬,Alibaba
+194.127.193.240,50791,🇸🇬,Leaseweb Asia
+161.117.249.114,2025,🇸🇬,Alibaba Cloud
+43.156.16.213,31528,🇸🇬,Tencent cloud computing
+8.215.196.18,587,🇮🇩,Alibaba
+103.186.1.209,2053,🇮🇩,PT CLOUDHOST
+103.133.223.51,2096,🇮🇩,PT Cloud Teknologi Nusantara
+43.133.145.156,53136,🇮🇩,Tencent cloud computing
 203.194.112.119,2053,🇮🇩,Rumahweb
 203.194.112.119,8443,🇮🇩,Rumahweb
 103.168.146.169,20132,🇮🇩,PT Herza Digital Indonesia
