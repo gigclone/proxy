@@ -12,19 +12,11 @@
 45.76.183.217,49292,sg,vultar holding
 64.176.84.144,81,sg,vultar holding
 185.126.80.215,25565,sg,akile
-4.193.111.126,40809,sg,microsoft azure
 194.127.193.124,24467,sg,leasweb
-89.34.227.98,8080,SG,ByteVirt
 47.74.254.191,8900,SG,Alibaba
 194.127.193.240,50791,SG,Leaseweb Asia
-89.28.239.168,30981,SG,ByteVirt
 161.117.249.114,2025,SG,Alibaba Cloud
 43.156.16.213,31528,SG,Tencent cloud computing
-168.138.162.187,443,SG,Oracle Cloud
-138.2.89.88,25906,SG,Oracle Cloud
-138.2.89.88,27405,SG,Oracle Cloud
-5.223.41.42,443,SG,Hetzner Online
-35.219.50.99,443,ID,Google LLC
 8.215.196.18,587,ID,Alibaba
 103.186.1.209,2053,ID,PT CLOUDHOST
 103.133.223.51,2096,ID,PT Cloud Teknologi Nusantara
