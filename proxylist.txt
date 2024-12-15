@@ -1,13 +1,6 @@
-101.128.94.86,6969,🇮🇩,PT Cyberindo
-45.127.133.228,80,🇮🇩,argon
-194.36.178.132,443,🇸🇬,FIRST SERVER LIMITED
-38.54.119.109,8085,🇸🇬,Kaopu Cloud Hk
 194.36.178.90,443,🇸🇬,Neapol Group Ltd
-45.198.0.117,80,🇮🇩,OCTOPUS WEB SOLUTION
-103.119.54.24,8443,🇮🇩,PT Eka Mas Republik
 209.182.237.252,8080,🇸🇬,Hivelocity, Inc
 45.129.228.31,8443,🇸🇬,Catixs Ltd
-175.156.128.188,8010,🇸🇬,M1
 188.64.108.126,8001,🇸🇬,Sharon Networks, LLC
 165.154.29.90,443,🇸🇬,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 210.16.65.149,443,🇸🇬,SHOCK-SG
