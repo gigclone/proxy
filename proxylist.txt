@@ -1,3 +1,7 @@
+203.194.112.119,8443,🇮🇩,First Cagayan Converge Data Center Inc.
+36.95.152.58,12137,🇮🇩,PT Telkom Indonesia
+108.136.167.35,11443,🇮🇩,Amazon.com
+203.194.112.119,2053,🇮🇩,First Cagayan Converge Data Center Inc.
 194.36.178.90,443,🇸🇬,Neapol Group Ltd
 209.182.237.252,8080,🇸🇬,Hivelocity, Inc
 45.129.228.31,8443,🇸🇬,Catixs Ltd
