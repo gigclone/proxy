@@ -1,3 +1,4 @@
+35.219.50.99,443,ID,Google cloud
 175.156.92.1,8443,SG,M1
 3.1.217.33,55442,SG,Amazon.com
 3.0.35.12,1443,SG,Amazon.com
