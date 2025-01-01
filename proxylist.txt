@@ -1,3 +1,4 @@
+83.147.254.60,2053,SG,Cox Communications
 64.49.14.41,2053,SG,Latitude-sh
 194.36.179.5,2053,SG,BELNET
 20.198.241.32,2053,SG,Microsoft Azure
