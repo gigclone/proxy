@@ -1,3 +1,16 @@
+83.142.30.5,2096,SG,Streamline Servers
+84.247.49.210,8443,SG,M247 Europe
+84.247.49.211,8443,SG,M247 Europe
+97.74.82.87,45837,SG,GoDaddy.com, LLC
+83.142.30.4,2096,SG,Streamline Servers
+194.9.62.132,57255,SG,SpeedyPage
+5.223.41.214,8443,SG,Hetzner Online
+5.223.49.4,2053,SG,Hetzner Online
+31.192.238.71,2053,SG,Chelyabinsk-Signal
+164.52.2.100,443,SG,CDS Global Cloud CO., LTD
+190.92.213.24,443,SG,Huawei Cloud
+143.42.66.91,443,SG,Viewqwest
+194.9.62.132,34646,SG,SpeedyPage
 206.206.76.208,2053,SG,Regxa cloud
 138.2.74.219,28616,SG,Cloudflare Warp
 154.91.84.10,8443,SG,TERAEXCH
