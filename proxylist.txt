@@ -94,6 +94,9 @@
 203.194.112.119,2053,ID,Rumahweb
 203.194.112.119,8443,ID,Rumahweb
 43.218.77.16,1443,ID,Amazon.com
+154.90.39.188,48071,MY,LightNode_Limited
+38.60.195.203,10478,MY,Kaopu Cloud HK
+38.60.193.247,13300,MY,Kaopu Cloud HK
 103.175.50.174,10906,MY,GB Network Solutions Sdn. Bhd
 123.253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
 103.131.191.170,443,MY,Terabix
