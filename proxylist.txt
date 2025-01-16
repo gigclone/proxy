@@ -128,3 +128,6 @@
 114.199.57.246,50000,KR,Green Cable Television Station
 168.131.148.50,50000,KR,Chonnam National University
 114.199.172.58,50000,KR,CCS
+110.35.213.37,50000,KR,Kumho Cable
+111.91.187.73,50000,KR,Korea Cable TV Kwangju Broadcasting
+123.100.191.194,50000,KR,Korea Cable TV Kwangju Broadcasting
