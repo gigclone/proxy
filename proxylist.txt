@@ -95,18 +95,14 @@
 45.136.238.235,24370,TH,CAT Telecom Data Center
 171.103.232.58,20475,TH,true online
 38.54.118.190,58259,TH,Kaopu Cloud HK
-171.103.233.26,34914,TH,True Online
 45.144.167.46,19816,TH,Siamdata Communication Co.
 152.32.255.24,587,VN,Ucloud Information Technology
 103.15.90.134,49678,VN,Vietnam Posts And Telecommunications 
 206.237.6.243,587,HK,Overland Storage
 206.237.10.52,29266,HK,Overland Storage
-218.103.165.114,34484,HK,Netvigator
 154.12.176.169,11920,HK,DMIT
 154.12.176.201,587,HK,DMIT
 58.176.95.46,443,HK,Hong Kong Broadband Network
-58.176.229.127,35002,HK,Hong Kong Broadband Network
-119.247.195.172,35510,HK,Hong Kong Broadband Network
 59.148.95.13,20746,HK,Hong Kong Broadband Network
 125.7.24.251,443,AU,Macquarie Technology Operations
 82.163.16.69,8080,JP,AKILE
