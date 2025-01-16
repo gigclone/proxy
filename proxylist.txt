@@ -136,3 +136,5 @@
 211.237.89.158,50000,KR,CMB Daejeon Broadcasting Co,.Ltd
 147.75.225.105,443,KR,Aryaka network
 192.158.245.197,443,KR,Aryaka network
+59.151.255.64,50000,KR,Saero Network Service
+119.56.143.192,50000,KR,Saero Network Service
